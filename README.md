@@ -29,9 +29,15 @@ or the input
 produces the output
 
 `appl`
+
 `pea`
+
 `banan`
+
 `gr`
+
 `plu`
+
 `appl pea banan gr plu`
+
 `5`
